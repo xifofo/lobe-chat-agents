@@ -1,11 +1,11 @@
 {
-  "name": "@lobehub/agents-index",
+  "name": "@xifo/lobehub-agents-index",
   "version": "1.31.0",
   "description": "LobeChat awesome agents index",
-  "homepage": "https://github.com/lobehub/lobe-chat-agents",
+  "homepage": "https://github.com/xifofo/lobe-chat-agents",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lobehub/lobe-chat-agents.git"
+    "url": "https://github.com/xifofo/lobe-chat-agents.git"
   },
   "license": "MIT",
   "author": "LobeHub <i@lobehub.com>",
